@@ -133,7 +133,7 @@
             tabPage6.ImageKey = "Settings.png";
             tabPage6.Location = new Point(4, 31);
             tabPage6.Name = "tabPage6";
-            tabPage6.Size = new Size(1372, 686);
+            tabPage6.Size = new Size(1010, 666);
             tabPage6.TabIndex = 5;
             tabPage6.Text = "Settings";
             tabPage6.UseVisualStyleBackColor = true;
@@ -191,7 +191,7 @@
             dataGridView1.RowHeadersVisible = false;
             dataGridView1.ScrollBars = ScrollBars.Vertical;
             dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dataGridView1.Size = new Size(1376, 477);
+            dataGridView1.Size = new Size(1215, 450);
             dataGridView1.TabIndex = 6;
             // 
             // tabPage5
@@ -203,7 +203,7 @@
             tabPage5.ImageKey = "Result.png";
             tabPage5.Location = new Point(4, 31);
             tabPage5.Name = "tabPage5";
-            tabPage5.Size = new Size(1372, 686);
+            tabPage5.Size = new Size(1010, 666);
             tabPage5.TabIndex = 4;
             tabPage5.Text = "Results";
             tabPage5.UseVisualStyleBackColor = true;
@@ -235,7 +235,7 @@
             dataGridViewCellStyle7.WrapMode = DataGridViewTriState.False;
             dgvPatientResult.DefaultCellStyle = dataGridViewCellStyle7;
             dgvPatientResult.GridColor = Color.FromArgb(231, 229, 255);
-            dgvPatientResult.Location = new Point(3, 200);
+            dgvPatientResult.Location = new Point(3, 180);
             dgvPatientResult.MultiSelect = false;
             dgvPatientResult.Name = "dgvPatientResult";
             dgvPatientResult.ReadOnly = true;
@@ -252,7 +252,7 @@
             dataGridViewCellStyle9.SelectionForeColor = Color.Black;
             dgvPatientResult.RowsDefaultCellStyle = dataGridViewCellStyle9;
             dgvPatientResult.RowTemplate.Height = 35;
-            dgvPatientResult.Size = new Size(1708, 483);
+            dgvPatientResult.Size = new Size(998, 456);
             dgvPatientResult.TabIndex = 18;
             dgvPatientResult.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
             dgvPatientResult.ThemeStyle.AlternatingRowsStyle.Font = null;
@@ -282,7 +282,7 @@
             // 
             guna2HtmlLabel1.BackColor = Color.Transparent;
             guna2HtmlLabel1.Font = new Font("SansSerif", 23.9999962F, FontStyle.Bold, GraphicsUnit.Point, 2);
-            guna2HtmlLabel1.Location = new Point(568, 23);
+            guna2HtmlLabel1.Location = new Point(387, 23);
             guna2HtmlLabel1.Name = "guna2HtmlLabel1";
             guna2HtmlLabel1.Size = new Size(237, 39);
             guna2HtmlLabel1.TabIndex = 16;
@@ -305,7 +305,7 @@
             txtSearchPatientResult.Font = new Font("Segoe UI", 9F);
             txtSearchPatientResult.ForeColor = Color.FromArgb(68, 88, 112);
             txtSearchPatientResult.HoverState.BorderColor = Color.FromArgb(206, 147, 216);
-            txtSearchPatientResult.Location = new Point(584, 120);
+            txtSearchPatientResult.Location = new Point(504, 107);
             txtSearchPatientResult.Name = "txtSearchPatientResult";
             txtSearchPatientResult.PlaceholderForeColor = Color.Silver;
             txtSearchPatientResult.PlaceholderText = "Search Patient";
@@ -329,7 +329,7 @@
             guna2DateTimePicker3.Font = new Font("Segoe UI", 9F);
             guna2DateTimePicker3.ForeColor = Color.FromArgb(68, 88, 112);
             guna2DateTimePicker3.Format = DateTimePickerFormat.Long;
-            guna2DateTimePicker3.Location = new Point(1151, 120);
+            guna2DateTimePicker3.Location = new Point(1071, 107);
             guna2DateTimePicker3.MaxDate = new DateTime(9998, 12, 31, 0, 0, 0, 0);
             guna2DateTimePicker3.MinDate = new DateTime(1753, 1, 1, 0, 0, 0, 0);
             guna2DateTimePicker3.Name = "guna2DateTimePicker3";
@@ -347,7 +347,7 @@
             tabPage4.ImageKey = "Analytics.png";
             tabPage4.Location = new Point(4, 31);
             tabPage4.Name = "tabPage4";
-            tabPage4.Size = new Size(1372, 686);
+            tabPage4.Size = new Size(1010, 666);
             tabPage4.TabIndex = 3;
             tabPage4.Text = "Analytics";
             tabPage4.UseVisualStyleBackColor = true;
@@ -379,7 +379,7 @@
             dataGridViewCellStyle12.WrapMode = DataGridViewTriState.False;
             dgvAnalyticsPatients.DefaultCellStyle = dataGridViewCellStyle12;
             dgvAnalyticsPatients.GridColor = Color.FromArgb(231, 229, 255);
-            dgvAnalyticsPatients.Location = new Point(3, 200);
+            dgvAnalyticsPatients.Location = new Point(3, 180);
             dgvAnalyticsPatients.MultiSelect = false;
             dgvAnalyticsPatients.Name = "dgvAnalyticsPatients";
             dgvAnalyticsPatients.ReadOnly = true;
@@ -396,7 +396,7 @@
             dataGridViewCellStyle14.SelectionForeColor = Color.Black;
             dgvAnalyticsPatients.RowsDefaultCellStyle = dataGridViewCellStyle14;
             dgvAnalyticsPatients.RowTemplate.Height = 35;
-            dgvAnalyticsPatients.Size = new Size(1259, 483);
+            dgvAnalyticsPatients.Size = new Size(998, 456);
             dgvAnalyticsPatients.TabIndex = 17;
             dgvAnalyticsPatients.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
             dgvAnalyticsPatients.ThemeStyle.AlternatingRowsStyle.Font = null;
@@ -426,7 +426,7 @@
             // 
             lblAnalytics.BackColor = Color.Transparent;
             lblAnalytics.Font = new Font("SansSerif", 23.9999962F, FontStyle.Bold, GraphicsUnit.Point, 2);
-            lblAnalytics.Location = new Point(554, 30);
+            lblAnalytics.Location = new Point(373, 30);
             lblAnalytics.Name = "lblAnalytics";
             lblAnalytics.Size = new Size(264, 39);
             lblAnalytics.TabIndex = 15;
@@ -449,7 +449,7 @@
             txtAnalyticsSearch.Font = new Font("Segoe UI", 9F);
             txtAnalyticsSearch.ForeColor = Color.FromArgb(68, 88, 112);
             txtAnalyticsSearch.HoverState.BorderColor = Color.FromArgb(206, 147, 216);
-            txtAnalyticsSearch.Location = new Point(458, 116);
+            txtAnalyticsSearch.Location = new Point(51, 90);
             txtAnalyticsSearch.Name = "txtAnalyticsSearch";
             txtAnalyticsSearch.PlaceholderForeColor = Color.Silver;
             txtAnalyticsSearch.PlaceholderText = "Enter HRI";
@@ -474,7 +474,7 @@
             guna2DateTimePicker2.Font = new Font("Segoe UI", 9F);
             guna2DateTimePicker2.ForeColor = Color.FromArgb(68, 88, 112);
             guna2DateTimePicker2.Format = DateTimePickerFormat.Long;
-            guna2DateTimePicker2.Location = new Point(1034, 120);
+            guna2DateTimePicker2.Location = new Point(639, 62);
             guna2DateTimePicker2.MaxDate = new DateTime(9998, 12, 31, 0, 0, 0, 0);
             guna2DateTimePicker2.MinDate = new DateTime(1753, 1, 1, 0, 0, 0, 0);
             guna2DateTimePicker2.Name = "guna2DateTimePicker2";
@@ -493,7 +493,7 @@
             userTabPage.ImageKey = "User Management.png";
             userTabPage.Location = new Point(4, 31);
             userTabPage.Name = "userTabPage";
-            userTabPage.Size = new Size(1372, 686);
+            userTabPage.Size = new Size(1010, 666);
             userTabPage.TabIndex = 2;
             userTabPage.Text = "User Control";
             userTabPage.UseVisualStyleBackColor = true;
@@ -542,7 +542,7 @@
             dataGridViewCellStyle19.SelectionForeColor = Color.Black;
             dgvUserControl.RowsDefaultCellStyle = dataGridViewCellStyle19;
             dgvUserControl.RowTemplate.Height = 35;
-            dgvUserControl.Size = new Size(1366, 483);
+            dgvUserControl.Size = new Size(998, 436);
             dgvUserControl.TabIndex = 16;
             dgvUserControl.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
             dgvUserControl.ThemeStyle.AlternatingRowsStyle.Font = null;
@@ -572,7 +572,7 @@
             // 
             lblUserControl.BackColor = Color.Transparent;
             lblUserControl.Font = new Font("SansSerif", 23.9999962F, FontStyle.Bold, GraphicsUnit.Point, 2);
-            lblUserControl.Location = new Point(546, 23);
+            lblUserControl.Location = new Point(365, 23);
             lblUserControl.Name = "lblUserControl";
             lblUserControl.Size = new Size(281, 39);
             lblUserControl.TabIndex = 13;
@@ -595,7 +595,7 @@
             txtUserControlSearch.Font = new Font("Segoe UI", 9F);
             txtUserControlSearch.ForeColor = Color.FromArgb(68, 88, 112);
             txtUserControlSearch.HoverState.BorderColor = Color.FromArgb(206, 147, 216);
-            txtUserControlSearch.Location = new Point(451, 121);
+            txtUserControlSearch.Location = new Point(22, 109);
             txtUserControlSearch.Name = "txtUserControlSearch";
             txtUserControlSearch.PlaceholderForeColor = Color.Silver;
             txtUserControlSearch.PlaceholderText = "Search User";
@@ -620,7 +620,7 @@
             guna2DateTimePicker1.Font = new Font("Segoe UI", 9F);
             guna2DateTimePicker1.ForeColor = Color.FromArgb(68, 88, 112);
             guna2DateTimePicker1.Format = DateTimePickerFormat.Long;
-            guna2DateTimePicker1.Location = new Point(963, 61);
+            guna2DateTimePicker1.Location = new Point(750, 86);
             guna2DateTimePicker1.MaxDate = new DateTime(9998, 12, 31, 0, 0, 0, 0);
             guna2DateTimePicker1.MinDate = new DateTime(1753, 1, 1, 0, 0, 0, 0);
             guna2DateTimePicker1.Name = "guna2DateTimePicker1";
@@ -648,7 +648,7 @@
             btnAddUser.ForeColor = Color.FromArgb(68, 88, 112);
             btnAddUser.HoverState.BorderColor = Color.FromArgb(206, 147, 216);
             btnAddUser.HoverState.FillColor = Color.FromArgb(243, 229, 245);
-            btnAddUser.Location = new Point(1027, 125);
+            btnAddUser.Location = new Point(575, 86);
             btnAddUser.Name = "btnAddUser";
             btnAddUser.PressedColor = Color.FromArgb(206, 147, 216);
             btnAddUser.ShadowDecoration.CustomizableEdges = customizableEdges14;
@@ -667,7 +667,7 @@
             patientTabPage.Location = new Point(4, 31);
             patientTabPage.Name = "patientTabPage";
             patientTabPage.Padding = new Padding(3);
-            patientTabPage.Size = new Size(1372, 686);
+            patientTabPage.Size = new Size(1010, 666);
             patientTabPage.TabIndex = 1;
             patientTabPage.Text = "Patient Control";
             patientTabPage.UseVisualStyleBackColor = true;
@@ -716,7 +716,7 @@
             dataGridViewCellStyle24.SelectionForeColor = Color.Black;
             dgvPatientControl.RowsDefaultCellStyle = dataGridViewCellStyle24;
             dgvPatientControl.RowTemplate.Height = 35;
-            dgvPatientControl.Size = new Size(1360, 473);
+            dgvPatientControl.Size = new Size(998, 453);
             dgvPatientControl.TabIndex = 15;
             dgvPatientControl.ThemeStyle.AlternatingRowsStyle.BackColor = Color.White;
             dgvPatientControl.ThemeStyle.AlternatingRowsStyle.Font = null;
@@ -744,9 +744,10 @@
             // 
             // lblPatientControl
             // 
+            lblPatientControl.Anchor = AnchorStyles.None;
             lblPatientControl.BackColor = Color.Transparent;
             lblPatientControl.Font = new Font("SansSerif", 23.9999962F, FontStyle.Bold, GraphicsUnit.Point, 2);
-            lblPatientControl.Location = new Point(527, 23);
+            lblPatientControl.Location = new Point(346, 23);
             lblPatientControl.Name = "lblPatientControl";
             lblPatientControl.Size = new Size(318, 39);
             lblPatientControl.TabIndex = 14;
@@ -754,7 +755,7 @@
             // 
             // txtPatientControlSearch
             // 
-            txtPatientControlSearch.Anchor = AnchorStyles.None;
+            txtPatientControlSearch.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             txtPatientControlSearch.Animated = true;
             txtPatientControlSearch.BorderColor = Color.FromArgb(243, 229, 245);
             txtPatientControlSearch.BorderRadius = 6;
@@ -769,23 +770,23 @@
             txtPatientControlSearch.Font = new Font("Segoe UI", 9F);
             txtPatientControlSearch.ForeColor = Color.FromArgb(68, 88, 112);
             txtPatientControlSearch.HoverState.BorderColor = Color.FromArgb(206, 147, 216);
-            txtPatientControlSearch.Location = new Point(461, 121);
+            txtPatientControlSearch.Location = new Point(107, 106);
             txtPatientControlSearch.Name = "txtPatientControlSearch";
             txtPatientControlSearch.PlaceholderForeColor = Color.Silver;
             txtPatientControlSearch.PlaceholderText = "Search Patient";
             txtPatientControlSearch.SelectedText = "";
             txtPatientControlSearch.ShadowDecoration.CustomizableEdges = customizableEdges16;
-            txtPatientControlSearch.Size = new Size(547, 40);
+            txtPatientControlSearch.Size = new Size(509, 40);
             txtPatientControlSearch.TabIndex = 9;
             txtPatientControlSearch.TabStop = false;
             // 
             // btnAddPatient
             // 
-            btnAddPatient.Anchor = AnchorStyles.None;
+            btnAddPatient.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             btnAddPatient.Animated = true;
             btnAddPatient.BackColor = Color.FromArgb(206, 147, 216);
             btnAddPatient.BorderColor = Color.FromArgb(206, 147, 216);
-            btnAddPatient.BorderRadius = 6;
+            btnAddPatient.BorderRadius = 12;
             btnAddPatient.BorderThickness = 1;
             btnAddPatient.CustomizableEdges = customizableEdges17;
             btnAddPatient.DisabledState.BorderColor = Color.DarkGray;
@@ -798,17 +799,17 @@
             btnAddPatient.ForeColor = Color.FromArgb(68, 88, 112);
             btnAddPatient.HoverState.BorderColor = Color.FromArgb(206, 147, 216);
             btnAddPatient.HoverState.FillColor = Color.FromArgb(243, 229, 245);
-            btnAddPatient.Location = new Point(1037, 125);
+            btnAddPatient.Location = new Point(622, 106);
             btnAddPatient.Name = "btnAddPatient";
             btnAddPatient.PressedColor = Color.FromArgb(206, 147, 216);
             btnAddPatient.ShadowDecoration.CustomizableEdges = customizableEdges18;
-            btnAddPatient.Size = new Size(164, 36);
+            btnAddPatient.Size = new Size(158, 36);
             btnAddPatient.TabIndex = 8;
             btnAddPatient.Text = "Add Patient";
             // 
             // dtpDateCreated
             // 
-            dtpDateCreated.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            dtpDateCreated.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             dtpDateCreated.BackColor = Color.White;
             dtpDateCreated.BorderColor = Color.FromArgb(206, 147, 216);
             dtpDateCreated.BorderRadius = 6;
@@ -820,12 +821,12 @@
             dtpDateCreated.Font = new Font("Segoe UI", 9F);
             dtpDateCreated.ForeColor = Color.FromArgb(68, 88, 112);
             dtpDateCreated.Format = DateTimePickerFormat.Long;
-            dtpDateCreated.Location = new Point(1151, 120);
+            dtpDateCreated.Location = new Point(786, 106);
             dtpDateCreated.MaxDate = new DateTime(9998, 12, 31, 0, 0, 0, 0);
             dtpDateCreated.MinDate = new DateTime(1753, 1, 1, 0, 0, 0, 0);
             dtpDateCreated.Name = "dtpDateCreated";
             dtpDateCreated.ShadowDecoration.CustomizableEdges = customizableEdges20;
-            dtpDateCreated.Size = new Size(271, 36);
+            dtpDateCreated.Size = new Size(218, 36);
             dtpDateCreated.TabIndex = 7;
             dtpDateCreated.Value = new DateTime(2025, 3, 12, 21, 36, 35, 491);
             // 
@@ -835,7 +836,7 @@
             tabPage1.Location = new Point(4, 31);
             tabPage1.Name = "tabPage1";
             tabPage1.Padding = new Padding(3);
-            tabPage1.Size = new Size(1372, 686);
+            tabPage1.Size = new Size(1010, 666);
             tabPage1.TabIndex = 0;
             tabPage1.Text = "Dashboard";
             tabPage1.UseVisualStyleBackColor = true;
@@ -856,7 +857,7 @@
             materialTabControl1.Multiline = true;
             materialTabControl1.Name = "materialTabControl1";
             materialTabControl1.SelectedIndex = 0;
-            materialTabControl1.Size = new Size(1380, 721);
+            materialTabControl1.Size = new Size(1018, 701);
             materialTabControl1.TabIndex = 0;
             // 
             // timer1
@@ -868,16 +869,13 @@
             AccessibleRole = AccessibleRole.None;
             AutoScaleDimensions = new SizeF(96F, 96F);
             AutoScaleMode = AutoScaleMode.Dpi;
-            AutoSize = true;
-            ClientSize = new Size(1386, 788);
+            AutoSizeMode = AutoSizeMode.GrowAndShrink;
+            ClientSize = new Size(1024, 768);
             Controls.Add(materialTabControl1);
             DrawerShowIconsWhenHidden = true;
             DrawerTabControl = materialTabControl1;
-            FormBorderStyle = FormBorderStyle.Sizable;
-            MinimizeBox = false;
+            MinimumSize = new Size(1024, 766);
             Name = "Rapha_LIS";
-            ShowInTaskbar = false;
-            Sizable = false;
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Rapha Laboratory Information System";
             Load += Rapha_LIS_Load;
