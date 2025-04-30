@@ -409,6 +409,7 @@ namespace Rapha_LIS.Presenters
             {
                 patientAnalyticsView.ShowMessage("User not found!");
             }
+            LoadAllPatientList();
         }
 
         private void CleanviewFields()
